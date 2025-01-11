@@ -18,6 +18,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coding404life&show_icons=true&locale=en&layout=compact" alt="coding404life" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coding404life&" alt="coding404life" /></p>
-
  
