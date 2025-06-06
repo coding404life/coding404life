@@ -1,14 +1,12 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hi 👋, I'm Yahya</h1>
-<h3 align="center">A Passionate Frontend Engineer from Egypt</h3>
 <!-- <img align="right" alt="coding" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" width='400'>  -->
 
-- 🔭 I’m currently working on **React && Next.js Projects**
-
-- 👯 I’m looking to collaborate on **React && Next.js projects**
-
-- 💬 Ask me about **React, Next.js, Redux.js, Material-UI, Tailwind-CSS**
+<p align="left">Senior Frontend Engineer with over 5 years of experience creating high-performance, user-centric applications.
+Optimizing user experiences, improving interface responsiveness, and delivering clean, maintainable code.
+Experienced in working closely with cross-functional teams to build intuitive, scalable products that align with
+business objectives and enhance overall user satisfaction.</p>
 
 - 📫 How to reach me **yahya.webdev@icloud.com**
 
