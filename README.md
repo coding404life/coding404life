@@ -8,7 +8,7 @@ Optimizing user experiences, improving interface responsiveness, and delivering 
 Experienced in working closely with cross-functional teams to build intuitive, scalable products that align with
 business objectives and enhance overall user satisfaction.</p>
 
-- 📫 How to reach me **yahya.webdev@icloud.com**
+📫 How to reach me **yahya.webdev@icloud.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
