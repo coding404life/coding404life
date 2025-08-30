@@ -31,6 +31,20 @@ I work closely with designers and backend teams to turn ideas into products that
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coding404life&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+---
+
+### 🤝 Let’s Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/yahya-webdev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:yahya.webdev@icloud.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://yahya-elmoshneb.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
