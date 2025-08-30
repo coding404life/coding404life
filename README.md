@@ -1,7 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hi 👋, I'm Yahya</h1>
-<h3 align="center">Frontend Engineer | React & Next.js | Open to Work</h3>
+<h3 align="center">Senior Frontend Engineer | React & Next.js | Open to Work</h3>
 
 <p align="center">
 With 5+ years of experience in frontend development, I focus on building applications that are fast, reliable, and easy to use.  
