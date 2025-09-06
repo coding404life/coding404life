@@ -38,7 +38,7 @@ I work closely with designers and backend teams to turn ideas into products that
   <a href="mailto:yahya.webdev@icloud.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://yahya-elmoshneb.vercel.app/" target="_blank">
+  <a href="https://yahya-elmoshneb.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white&style=for-the-badge" />
   </a>
 </p>
